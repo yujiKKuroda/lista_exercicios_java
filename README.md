@@ -1,55 +1,13 @@
 # lista_exercicios_java
 Exercícios para aprendizado de Java.
 
-## 1 - O que é esse número?
+### 1 - O que é esse número?
 
-Faça um algoritmo para receber um número qualquer e imprimir na tela se o número é par ou ímpar, positivo ou negativo.
+### 2 - Fibonacci
 
-*Exemplos de Saída:*
-```
--5 é ímpar e negativo.
-10 é par e positivo.
-```
+### 3 - MultiplicaAí
 
-## 2 - Fibonacci
-
-Dado um número inteiro x, imprima uma sequência de Fibonacci de tamanho x.
-
-*Exemplo de saída para uma sequência de tamanho 5:*
-```
-0 1 1 2 3
-```
-
-*Exemplo de saída para uma sequência de tamanho 10:*
-```
-0 1 1 2 3 5 8 13 21 34
-```
-
-*Exemplo de saída para uma sequência de tamanho 20:*
-```
-0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181
-```
-
-## 3 - MultiplicaAí
-
-Escreva um código que deve imprimir a tabela de multiplicação de algum número fornecido além de exibir um cabeçalho com o nome Tabela de multiplicação de X, onde X é o número a ser multiplicado.
-
-*Exemplos de Saída:*
-```
-Tabela de multiplicação por 5
-5 x 1 = 5
-5 x 2 = 10
-5 x 3 = 15
-5 x 4 = 20
-5 x 5 = 25
-5 x 6 = 30
-5 x 7 = 35
-5 x 8 = 40
-5 x 9 = 45
-5 x 10 = 50
-```
-
-## 4 - Pirâmide de números
+### 4 - Pirâmide de números
 
 Crie uma pirâmide de números, onde você deve imprimir em cada linha separada a quantidade de números que está sendo iterado no momento. 
 
@@ -62,7 +20,7 @@ Por exemplo, se a sua iteração for de 5 elementos, o resultado final ficaria a
 55555
 ```
 
-## 5 - Duplicados não!
+### 5 - Duplicados não!
 
 Escreva um código que encontre os elementos em comum que existem em dois arrays e imprima no console quais são esses elementos, um a um.
 
@@ -77,7 +35,7 @@ Morango
 Caqui
 ```
 
-## 6 - Holidayzer
+### 6 - Holidayzer
 
 Vamos criar uma aplicação Java que será um calendário de feriados! Para isso, queremos:
 
@@ -110,7 +68,7 @@ Vamos criar uma aplicação Java que será um calendário de feriados! Para isso
 - Para criar uma variável que pode ser usada globalmente no App, adicione a palavra static antes da declaração ⇒ Ex: `static int numero = 5;`
 - Essas dicas são necessárias pois o método `main()` precisa ser estático 😄
 
-## 7 - APItização dos Feriados
+### 7 - APItização dos Feriados
 
 Transforme o exercício anterior em uma API! As rotas à seguir são correspondentes às funções descritas:
 - **GET** `/holidays`
