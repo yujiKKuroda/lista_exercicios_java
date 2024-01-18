@@ -11,19 +11,6 @@ Exercícios para aprendizado de Java.
 
 ### 5 - Duplicados não!
 
-Escreva um código que encontre os elementos em comum que existem em dois arrays e imprima no console quais são esses elementos, um a um.
-
-*Exemplo com as seguintes entradas:*
-```
-array1 => "Morango", "Banana", "Maçã", "Uva", "Caqui"
-array2 => "Manga", "Caqui", "Morango", "Amora"
-```
-*A saída seria:*
-```
-Morango
-Caqui
-```
-
 ### 6 - Holidayzer
 
 Vamos criar uma aplicação Java que será um calendário de feriados! Para isso, queremos:
