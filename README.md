@@ -9,17 +9,6 @@ Exercícios para aprendizado de Java.
 
 ### 4 - Pirâmide de números
 
-Crie uma pirâmide de números, onde você deve imprimir em cada linha separada a quantidade de números que está sendo iterado no momento. 
-
-Por exemplo, se a sua iteração for de 5 elementos, o resultado final ficaria assim:
-```
-1
-22
-333
-4444
-55555
-```
-
 ### 5 - Duplicados não!
 
 Escreva um código que encontre os elementos em comum que existem em dois arrays e imprima no console quais são esses elementos, um a um.
